@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sebastián Moreno E - Cloud Center of Excellence Lead - Google Cloud Chapter @Everis | GDG Cloud Santiago Organizer
 
-<!--
-**sebastianmorenoe/sebastianmorenoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## + 10 years in the IT Industry.
+## + 7 years in Cloud Technologies.
+## + 4 years in Google Cloud Platform experience.
 
-Here are some ideas to get you started:
+## Cloud Center of Excellence Lead - Google Cloud Chapter @Everis - Creating Balance between Innovation, Knowledge, Speed, and Stability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Driving momentum across the organization.
+• Developing reusable frameworks for cloud governance.
+• Managing cloud knowledge and learning.
+• Overseeing cloud usage and scale plans.
+• Aligning cloud offerings to the broader organizational strategy.
+
+## GDG Cloud Santiago Organizer - +1000 Member Cloud Community.
+
+• We generate community, collaboration, and content from Google Cloud in Spanish until we are all in the cloud.
