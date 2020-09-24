@@ -1,6 +1,6 @@
 ## + 10 years in the IT Industry.
 ## + 7 years in Cloud Technologies.
-## + 4 years in Google Cloud Platform experience.
+## + 4 years in Google Cloud Platform.
 
 ## Head of Cloud Center of Excellence - Google Cloud Chapter @Everis
 
