@@ -2,7 +2,7 @@
 ## + 7 years in Cloud Technologies.
 ## + 4 years in Google Cloud Platform.
 
-## Head of Cloud Center of Excellence - Google Cloud Chapter @Everis
+## Head of Cloud Center of Excellence - Multicloud Chapter @Everis
 
 - Creating Balance between Innovation, Knowledge, Speed, and Stability.
 - Driving momentum across the organization.
@@ -13,7 +13,7 @@
 
 ## GDG Cloud Santiago Organizer - +1000 Member Cloud Community.
 
-• We generate community, collaboration, and content from Google Cloud in Spanish until we are all in the cloud.
+• We generate community, collaboration, and Cloud content in Spanish until we are all in the cloud.
 
 - Patreon: https://www.patreon.com/gdgcloudsantiago
 
