@@ -1,5 +1,6 @@
 ## + 10 years in the IT Industry.
 ## + 7 years in Cloud Technologies.
+## + 3 years in Microsoft Azure.
 ## + 4 years in Google Cloud Platform.
 
 ## Head of Cloud Center of Excellence - Multicloud Chapter @Everis
