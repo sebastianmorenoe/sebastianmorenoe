@@ -46,6 +46,8 @@
 
 - Community Open Source App Repositories: https://github.com/gdgcloudsantiagoapp
 
+- Contacto: hola@gdgcloudsantiago.dev 
+
 ## Cloud Native Chile Organizer
 
 - Meetup: https://www.meetup.com/es-ES/Cloud-Native-Chile/
