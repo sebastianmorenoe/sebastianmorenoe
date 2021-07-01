@@ -3,14 +3,7 @@
 ## + 3 years in Microsoft Azure.
 ## + 4 years in Google Cloud Platform.
 
-## Cloud Advocate @Everis
-
-- Creating Balance between Innovation, Knowledge, Speed, and Stability.
-- Driving momentum across the organization.
-- Developing reusable frameworks for cloud governance.
-- Managing cloud knowledge and learning.
-- Overseeing cloud usage and scale plans.
-- Aligning cloud offerings to the broader organizational strategy.
+## Partner Engineer, Google Cloud at Google
 
 ## GDG Cloud Santiago Organizer - +1000 Member Cloud Community.
 
