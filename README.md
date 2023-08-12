@@ -1,3 +1,11 @@
-## Partner Engineer, Google Cloud at Google | Author Google Cloud Certified Professional Cloud Developer Exam Guide | Opinions are my own
+## AI Google Cloud Ambassador
 
-• Let's talk on Discord: https://discord.com/invite/yM5yhJzeQ7
+### Únete a nuestro grupo de estudio de GenAI en Whatsapp: https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ
+
+### Únete a nuestro canal de Discord: https://discord.gg/CtPjsPXe6E
+
+### Únete a nuestro Telegram: https://t.me/+UKX6R5YP9T40OThh
+
+### Suscríbete a nuestro canal en Youtube: https://www.youtube.com/gdgcloudsantiago
+
+### No te pierdas ninguno de nuestros eventos: https://gdg.community.dev/gdg-cloud-santiago-de-chile/
